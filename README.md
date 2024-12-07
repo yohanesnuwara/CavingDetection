@@ -20,7 +20,7 @@ Here is the final plot of all detected cavings. You can see how cavings move fro
 
 <img width="411" alt="image" src="https://github.com/user-attachments/assets/89112a8f-45b0-4993-acb8-f79245d75afc">
 
-## Notebook 
+## [Notebook](https://github.com/yohanesnuwara/CavingDetection/blob/main/caving-detection.ipynb) 
 
 The notebook explains process as follows:
 1. Train a YOLOv11 segmentation model with default hyperparams on the data
